@@ -31,7 +31,23 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "心爱的小可爱": "./imgs/xiaokeai.png",
+        "心爱的宝儿": "./imgs/xiaokeai.png",
+        "今天是你的生日": "./imgs/xiaokeai.png",
+        "14岁了哦": "./imgs/xiaokeai.png",
+        "也是我们在一起的261天": "./imgs/xiaokeai.png",
+        "我们一起走过的": "./imgs/xiaokeai.png",
+        "漫长相爱的时光": "./imgs/xiaokeai.png",
+        "今天要吃很多好吃的": "./imgs/xiaokeai.png",
+        "爹爹做给你": "./imgs/xiaokeai.png",
+        "再准备一个大蛋糕": "./imgs/xiaokeai.png",
+        "把我家的小可爱喂饱饱": "./imgs/xiaokeai.png",
+        "然后抱走": "./imgs/xiaokeai.png",
+        "YAMI~~": "./imgs/xiaokeai.png",
+        "保护你": "./imgs/xiaokeai.png",
+        "爹爹对你的爱": "./imgs/xiaokeai.png",
+        "是否能明白一二": "./imgs/xiaokeai.png",
+        "亲爱的, 互为唯一, 在一起": "./imgs/xiaokeai.png",
+        "永远Cc∞": "./imgs/xiaokeai.png",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
